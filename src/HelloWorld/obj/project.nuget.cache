@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NQZ7LBKtQf7hYQ2UD9MWhTX46qCgJDNejeKLt0/rfA7XB9f4GAsXvFHpXEku6HvBSgT52XhGP9GE2fo7Qtiiw==",
+  "success": true,
+  "projectFilePath": "/Users/joyce/source/repos/DotNet/HelloWorld/src/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/joyce/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/joyce/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/joyce/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/joyce/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/joyce/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/joyce/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
